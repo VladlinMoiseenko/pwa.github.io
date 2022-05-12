@@ -1,0 +1,1 @@
+на основе статьи: Как сделать Progressive Web Apps: руководство новичка https://habr.com/ru/company/netologyru/blog/333544/
